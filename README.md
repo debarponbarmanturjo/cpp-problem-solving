@@ -1,10 +1,23 @@
-# Competitive Programming & Problem Solving
+# ⚡ cpp-problem-solving
 
-This repository tracks my daily journey in mastering Data Structures, Algorithms, and logical problem-solving.
+A dedicated space for daily C and C++ problem-solving, algorithm practice, and strengthening core programming logic.
 
-## 📊 Platforms Tracked
-- **Codeforces:** [Profile](https://codeforces.com/profile/debarpon)
-- **LeetCode:** [Profile](https://leetcode.com/u/debarpon/)
+---
 
-## 🛠️ Language Used
-- C++ (Standard Template Library - STL)
+## 🎯 Purpose
+* **Logic Building:** Sharpen core C and C++ syntax, memory handling, and algorithmic thinking.
+* **Consistency:** Rebuild and maintain a daily coding habit.
+* **Track Record:** Document solutions across various online platforms in one place.
+
+---
+
+## 📁 Repository Structure
+
+```text
+.
+├── 📁 Beecrowd/
+├── 📁 CodeChef/
+├── 📁 Codeforces/
+├── 📁 HackerRank/
+├── 📁 LeetCode/
+└── 📁 Toph/
